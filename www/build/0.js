@@ -71,7 +71,7 @@ TabsPage = __decorate([
     Object(__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* IonicPage */])({
         name: 'tabs'
     }),
-    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/Users/jayanta/ionic/Ionic3-firebase3/src/pages/tabs/tabs.html"*/'<ion-tabs>\n\n  <ion-tab [root]="tab1Root" tabTitle="Home" tabIcon="person" tabsHideOnSubPages="true"></ion-tab>\n\n  <ion-tab [root]="tab2Root" tabTitle="Calendar" tabIcon="calendar" tabsHideOnSubPages="true"></ion-tab>\n\n  <ion-tab [root]="tab3Root" tabTitle="Places" tabIcon="pin" tabsHideOnSubPages="true"></ion-tab>\n\n</ion-tabs>\n\n'/*ion-inline-end:"/Users/jayanta/ionic/Ionic3-firebase3/src/pages/tabs/tabs.html"*/
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/var/www/nafisa/nafisa_capital/src/pages/tabs/tabs.html"*/'<ion-tabs>\n\n  <ion-tab [root]="tab1Root" tabTitle="Home" tabIcon="person" tabsHideOnSubPages="true"></ion-tab>\n\n  <ion-tab [root]="tab2Root" tabTitle="Calendar" tabIcon="calendar" tabsHideOnSubPages="true"></ion-tab>\n\n  <ion-tab [root]="tab3Root" tabTitle="Places" tabIcon="pin" tabsHideOnSubPages="true"></ion-tab>\n\n</ion-tabs>\n\n'/*ion-inline-end:"/var/www/nafisa/nafisa_capital/src/pages/tabs/tabs.html"*/
     }),
     __metadata("design:paramtypes", [])
 ], TabsPage);

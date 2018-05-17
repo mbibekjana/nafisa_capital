@@ -81,7 +81,7 @@ HomePage = __decorate([
         name: 'home'
     }),
     Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
-        selector: 'page-home',template:/*ion-inline-start:"/Users/jayanta/ionic/Ionic3-firebase3/src/pages/home/home.html"*/'<ion-header>\n\n  <ion-navbar>\n\n    <button ion-button menuToggle>\n\n      <ion-icon name="menu"></ion-icon>\n\n    </button>\n\n    <ion-title>Home</ion-title>\n\n  </ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content padding>\n\n  <h2>Welcome to DEMO!</h2>\n\n \n\n <ion-row> \n\n        <button (click)="logout()" ion-button block>Log out</button>\n\n    </ion-row>\n\n</ion-content>\n\n'/*ion-inline-end:"/Users/jayanta/ionic/Ionic3-firebase3/src/pages/home/home.html"*/
+        selector: 'page-home',template:/*ion-inline-start:"/var/www/nafisa/nafisa_capital/src/pages/home/home.html"*/'<ion-header>\n\n  <ion-navbar>\n\n    <button ion-button menuToggle>\n\n      <ion-icon name="menu"></ion-icon>\n\n    </button>\n\n    <ion-title>Home</ion-title>\n\n  </ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content padding>\n\n  <h2>Welcome to DEMO!</h2>\n\n \n\n <ion-row> \n\n        <button (click)="logout()" ion-button block>Log out</button>\n\n    </ion-row>\n\n</ion-content>\n\n'/*ion-inline-end:"/var/www/nafisa/nafisa_capital/src/pages/home/home.html"*/
     }),
     __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["a" /* App */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* ModalController */], __WEBPACK_IMPORTED_MODULE_2__providers_auth_auth__["a" /* AuthProvider */]])
 ], HomePage);
