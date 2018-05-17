@@ -1,16 +1,137 @@
-<ion-header>
-  <ion-navbar>
-    <button ion-button menuToggle>
-      <ion-icon name="menu"></ion-icon>
-    </button>
-    <ion-title>Home</ion-title>
-  </ion-navbar>
-</ion-header>
+
 
 <ion-content padding>
-  <h2>Welcome to DEMO!</h2>
  
- <ion-row> 
-        <button (click)="logout()" ion-button block>Log out</button>
-    </ion-row>
+
+<!--menu start-->
+<div class="menu_section show" *ngIf="buttonClicked">
+	<div class="user_desc">
+		<img src="images/user-img.jpg" alt="">
+		<h4>Manas Mondal</h4>
+		<p>8420553256</p>
+	</div>
+	<ul>
+		<li><a href="sign_up.php"><img src="images/user-registration-icon.png" alt="">Registration</a></li>
+		<li><a href="index.php"><img src="images/invest-icon.png" alt="">Invest</a></li>
+		<li><a href="#"><img src="images/report-icon.png" alt="">Reports</a></li>
+		<li><a href="#"><img src="images/withdraw-icon.png" alt="">Withdraw</a></li>
+		<li><a href="#"><img src="images/user-acc-icon.png" alt="">My Account</a></li>
+		<li><a href="#"><img src="images/promo-code-icon.png" alt="">Promo / Partner Code</a></li>
+		<li><a href="#"><img src="images/faq-icon.png" alt="">FAQ</a></li>
+		<li><a href="#"><img src="images/help-support-icon.png" alt="">Help &amp; Support</a></li>
+		<li><a (click)="logout()" href="#"><img src="images/help-support-icon.png" alt="">LOGOUT</a></li>
+	</ul>
+</div>
+<div class="body_overlay show" *ngIf="buttonClicked" (click)="onButtonClick()">
+	<span>&times;</span>
+</div>
+<!--menu end-->
+
+<!--top bar start-->
+<div class="top_bar">
+	<div class="container">
+		<div class="row m-0">
+			<div class="mr-auto">
+				<div (click)="onButtonClick()" class="menu_bar">
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
+				<div class="logo">
+					<span>Nafisa Capital</span>
+				</div>
+			</div>
+			<!--<div>
+				<a href="#" class="cart"><img src="images/shopping-cart.png" alt=""></a>
+				<a href="#" class="search"><img src="images/search-icon.png" alt=""></a>
+			</div>-->
+		</div>
+	</div>
+</div>
+
+<div class="main_content">
+	<div class="container">
+	
+		<h2 class="title_main">Explore top mutual funds</h2>
+		<div class="funds_section row m-0 align-items-start">
+			<div class="fund_item">
+				<a href="fund_list.php">
+					<div class="icon"><img src="images/top-funds-icon.png" alt=""></div>
+					<h4>Top equity funds</h4>
+				</a>
+			</div>
+			<div class="fund_item">
+				<a href="fund_list.php">
+					<div class="icon"><img src="images/tax-saving-icon.png" alt=""></div>
+					<h4>Best tax saving funds</h4>
+				</a>
+			</div>
+			<div class="fund_item">
+				<a href="fund_list.php">
+					<div class="icon"><img src="images/mid-cap-icon.png" alt=""></div>
+					<h4>Top mid-cap funds</h4>
+				</a>
+			</div>
+			<div class="fund_item">
+				<a href="fund_list.php">
+					<div class="icon"><img src="images/top-funds-icon.png" alt=""></div>
+					<h4>Top equity funds</h4>
+				</a>
+			</div>
+			<div class="fund_item">
+				<a href="fund_list.php">
+					<div class="icon"><img src="images/tax-saving-icon.png" alt=""></div>
+					<h4>Best tax saving funds</h4>
+				</a>
+			</div>
+			<div class="fund_item">
+				<a href="all_category.php">
+					<div class="icon"><img src="images/category-icon.png" alt=""></div>
+					<h4>View all categories</h4>
+				</a>
+			</div>
+		</div>
+		
+		<h2 class="title_main">Nafisa Capital recommended plans</h2>
+		<div class="plan_section">
+			<div class="plan_item">
+				<img src="images/save-tax-icon.png" alt="">
+				<a href="save_tax.php">
+					<h4>Save Tax</h4>
+					<p>Easy tax-saving investments</p>
+				</a>
+			</div>
+			<div class="plan_item">
+				<img src="images/sip-invest-icon.png" alt="">
+				<a href="#">
+					<h4>SIP & one time invesment</h4>
+					<p>Build wealth:long term invesment</p>
+				</a>
+			</div>
+			<div class="plan_item">
+				<img src="images/park-money-icon.png" alt="">
+				<a href="#">
+					<h4>Park Money</h4>
+					<p>Safe short-term investments</p>
+				</a>
+			</div>
+			<div class="plan_item">
+				<img src="images/saver-icon.png" alt="">
+				<a href="#">
+					<h4>Smart Saver</h4>
+					<p>4% more than bank account</p>
+				</a>
+			</div>
+			<div class="plan_item">
+				<img src="images/investing-icon.png" alt="">
+				<a href="#">
+					<h4>Advance Investing</h4>
+					<p>Sectorial, mid cap & more</p>
+				</a>
+			</div>
+		</div>
+		
+	</div>
+</div>
+
 </ion-content>
