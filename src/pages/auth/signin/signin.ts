@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
-import { IonicPage, App, NavController, LoadingController, ModalController } from 'ionic-angular';
+import { IonicPage,  NavController, LoadingController } from 'ionic-angular';
 import { Validators, FormBuilder, FormGroup } from '@angular/forms';
-import { Storage } from '@ionic/storage';
+// import { Storage } from '@ionic/storage';
 
 import { AuthProvider } from '../../../providers/auth/auth';
 
@@ -18,12 +18,12 @@ export class Signin {
   errorMessage: string;
   
   constructor(
-    private app: App,
+    // private app: App,
     private navCtrl: NavController, 
     private loadingCtrl: LoadingController,
-    private modalCtrl: ModalController,
+    // private modalCtrl: ModalController,
     private formBuilder: FormBuilder,
-    private storage: Storage,
+    // private storage: Storage,
     private auth: AuthProvider
   ) {
     this.form = this.formBuilder.group({
@@ -40,7 +40,7 @@ export class Signin {
 
     this.auth.signInWithEmailAndPassword(this.form.value.email, this.form.value.password)
     .then((data) => {
-      console.log("uid",data.uid);
+      console.log('uid',data.uid);
       loading.dismiss();
       this.navCtrl.setRoot('tabs');
     }, (error) => {

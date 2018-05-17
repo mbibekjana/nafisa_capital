@@ -1,8 +1,7 @@
 import { Component } from '@angular/core';
-import { IonicPage, App, NavController, LoadingController, 
-  ModalController } from 'ionic-angular';
+import { IonicPage,  NavController, LoadingController } from 'ionic-angular';
 import { Validators, FormBuilder, FormGroup } from '@angular/forms';
-import { Storage } from '@ionic/storage';
+// import { Storage } from '@ionic/storage';
 
 import { AuthProvider } from '../../../providers/auth/auth';
 
@@ -19,12 +18,12 @@ export class Signup {
   errorMessage: string;
   
   constructor(
-    private app: App,
+    // private app: App,
     private navCtrl: NavController,
-    private modalCtrl: ModalController,
+    // private modalCtrl: ModalController,
     private loadingCtrl: LoadingController,
     private formBuilder: FormBuilder,
-    private storage: Storage,
+    // private storage: Storage,
     private auth: AuthProvider
   ) {
     this.form = this.formBuilder.group({
@@ -35,7 +34,7 @@ export class Signup {
 
   signUp() {
     const loading = this.loadingCtrl.create({
-      content: "We're creating a user for you ...."
+      content: 'We are creating a user for you ....'
     });
     loading.present();
 

@@ -10,11 +10,13 @@ import { AuthProvider } from '../../providers/auth/auth';
   templateUrl: 'home.html'
 })
 export class HomePage {
-
-  constructor(private app: App, private navCtrl: NavController, private modalCtrl: ModalController, private auth: AuthProvider) {}
+  constructor(private app: App,
+              private navCtrl: NavController,
+              private modalCtrl: ModalController,
+              private auth: AuthProvider) {}
   logout(): void {
-      this.auth.logout().then(() => {
-       this.app.getRootNav().setRoot('auth-signin'); 
-        });
-    }
+    this.auth.logout().then(() => {
+      this.app.getRootNav().setRoot('auth-signin');
+    });
+  }
 }

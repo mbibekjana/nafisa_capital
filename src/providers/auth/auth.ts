@@ -1,25 +1,25 @@
 import { Injectable } from '@angular/core';
-import { Platform, LoadingController } from 'ionic-angular';
+// import { Platform, LoadingController } from 'ionic-angular';
 import { AngularFireAuth } from 'angularfire2/auth';
 import { Observable } from 'rxjs/Observable';
 import * as firebase from 'firebase/app';
 
-import { Facebook, FacebookLoginResponse } from '@ionic-native/facebook';
+// import { Facebook, FacebookLoginResponse } from '@ionic-native/facebook';
 
-import { DataProvider } from '../data/data';
-import { FunctionsProvider } from '../functions/functions';
+// import { DataProvider } from '../data/data';
+// import { FunctionsProvider } from '../functions/functions';
 
 @Injectable()
 export class AuthProvider {
   public user: Observable<firebase.User>;
 
   constructor(
-    private platform: Platform,
-    private facebook: Facebook,
-    private loadingCtrl: LoadingController,
+    // private platform: Platform,
+    // private facebook: Facebook,
+    // private loadingCtrl: LoadingController,
     public afAuth: AngularFireAuth,
-    private data: DataProvider,
-    private functions: FunctionsProvider
+    // private data: DataProvider,
+    // private functions: FunctionsProvider
   ) {
     this.user = afAuth.authState;
   }

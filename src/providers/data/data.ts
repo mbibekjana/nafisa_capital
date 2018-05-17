@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
-import { AngularFireDatabase, FirebaseListObservable, 
+import { AngularFireDatabase, FirebaseListObservable,
   FirebaseObjectObservable } from 'angularfire2/database';
-import { Observable } from 'rxjs/Observable';
+// import { Observable } from 'rxjs/Observable';
 
 @Injectable()
 export class DataProvider {
