@@ -19,12 +19,12 @@ import { FunctionsProvider } from '../providers/functions/functions';
 
 // Add your Fireabse Config here.
 const firebaseConfig = {
-  apiKey: "AIzaSyACM7bkQHy3hKv36DLclSAimS9Mxa5kY6I",
-  authDomain: "firstfirebase-1cb83.firebaseapp.com",
-  databaseURL: "https://firstfirebase-1cb83.firebaseio.com",
-  projectId: "firstfirebase-1cb83",
-  storageBucket: "firstfirebase-1cb83.appspot.com",
-  messagingSenderId: "300136431908"
+  apiKey:'AIzaSyACM7bkQHy3hKv36DLclSAimS9Mxa5kY6I',
+  authDomain:'firstfirebase-1cb83.firebaseapp.com',
+  databaseURL:'https://firstfirebase-1cb83.firebaseio.com',
+  projectId:'firstfirebase-1cb83',
+  storageBucket:'firstfirebase-1cb83.appspot.com',
+  messagingSenderId:'300136431908'
 };
 
 
