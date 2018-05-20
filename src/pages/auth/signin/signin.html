@@ -7,39 +7,32 @@
 		<h5>Login to your account</h5>
 		<form [formGroup]="form" (ngSubmit)="signInWithEmail()">
 			<div class="form-group">
-				<span class="icon"><img src="images/user-icon.png" alt=""></span>
-				<ion-item>
-        <ion-input type="email" class="form-control" placeholder="Email or Mobile" formControlName="email"></ion-input>
-      </ion-item>
-     
+				<span class="icon"><ion-img src="images/user-icon.png" alt=""></ion-img></span>
+				<ion-item id="email">
+        			<ion-input type="email"  class="form-control" placeholder="Email or Mobile" formControlName="email"></ion-input>
+      			</ion-item>
+
 			</div>
 			<div class="form-group">
-				
-			  <span class="icon"><img src="images/key-icon.png" alt=""></span>	
-      <ion-item>
-		  
-        <ion-input type="password" class="form-control" placeholder="password" formControlName="password"></ion-input>
+
+				<span class="icon"><ion-img src="images/key-icon.png" alt=""></ion-img></span>
+      <ion-item id="password">
+
+        <ion-input type="password"  class="form-control" placeholder="password" formControlName="password"></ion-input>
       </ion-item>
 			</div>
 			<button  type="submit" class="login_submit">Login</button>
 			<p><a (click)="navigateTo('auth-signup')" href="javascript:void(0)">Sign Up</a></p>
 			<p style="padding-left: 5px" ion-text color="danger" *ngIf="hasError">{{errorMessage}}</p>
 			
-			<div class="divider"><span>Or</span></div>
-			<div class="login_social">
-				<a href="javascript:void(0);" class="google"><i class="fab fa-google"></i> Google</a>
-				<a href="javascript:void(0);" class="facebook"><i class="fab fa-facebook-f"></i> Facebook</a>
-			</div>
+			<!--<div class="divider"><span>Or</span></div>-->
+			<!--<div class="login_social">-->
+				<!--<a href="javascript:void(0);" class="google"><i class="fab fa-google"></i> Google</a>-->
+				<!--<a href="javascript:void(0);" class="facebook"><i class="fab fa-facebook-f"></i> Facebook</a>-->
+			<!--</div>-->
 		</form>
 	</div>
 </div>
 </ion-content>
 
 
-<ion-footer>
-  <ion-toolbar class="footer">
-    <div (click)="navigateTo('auth-signup')">
-      <span>Do not have an account? <strong>About Us </strong>.</span>
-    </div>
-  </ion-toolbar>
-</ion-footer>

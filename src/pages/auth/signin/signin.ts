@@ -42,7 +42,7 @@ export class Signin {
     .then((data) => {
       console.log("uid",data.uid);
       loading.dismiss();
-      this.navCtrl.setRoot('tabs');
+      this.navCtrl.setRoot('home');
     }, (error) => {
       loading.dismiss();
       switch (error.code) {

@@ -1,14 +1,14 @@
 webpackJsonp([3],{
 
-/***/ 412:
+/***/ 413:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "SigninModule", function() { return SigninModule; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__signin__ = __webpack_require__(417);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(80);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__signin__ = __webpack_require__(418);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -41,13 +41,13 @@ SigninModule = __decorate([
 
 /***/ }),
 
-/***/ 417:
+/***/ 418:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Signin; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(80);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_forms__ = __webpack_require__(22);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ionic_storage__ = __webpack_require__(275);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__providers_auth_auth__ = __webpack_require__(140);
@@ -89,7 +89,7 @@ var Signin = (function () {
             .then(function (data) {
             console.log("uid", data.uid);
             loading.dismiss();
-            _this.navCtrl.setRoot('tabs');
+            _this.navCtrl.setRoot('home');
         }, function (error) {
             loading.dismiss();
             switch (error.code) {
@@ -119,7 +119,7 @@ Signin = __decorate([
         name: 'auth-signin'
     }),
     Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
-        selector: 'page-signin',template:/*ion-inline-start:"/Users/jayanta/ionic/Ionic3-firebase3/src/pages/auth/signin/signin.html"*/'\n\n\n\n<ion-content padding>\n\n    <div class="login_sec">\n\n	<div class="login_container">\n\n		<div class="login_logo"><img src="images/logo.png" alt=""></div>\n\n		<h5>Login to your account</h5>\n\n		<form [formGroup]="form" (ngSubmit)="signInWithEmail()">\n\n			<div class="form-group">\n\n				<span class="icon"><img src="images/user-icon.png" alt=""></span>\n\n				<ion-item>\n\n        <ion-input type="email" class="form-control" placeholder="Email or Mobile" formControlName="email"></ion-input>\n\n      </ion-item>\n\n     \n\n			</div>\n\n			<div class="form-group">\n\n				\n\n			  <span class="icon"><img src="images/key-icon.png" alt=""></span>	\n\n      <ion-item>\n\n		  \n\n        <ion-input type="password" class="form-control" placeholder="password" formControlName="password"></ion-input>\n\n      </ion-item>\n\n			</div>\n\n			<button  type="submit" class="login_submit">Login</button>\n\n			<p><a (click)="navigateTo(\'auth-signup\')" href="javascript:void(0)">Sign Up</a></p>\n\n			<p style="padding-left: 5px" ion-text color="danger" *ngIf="hasError">{{errorMessage}}</p>\n\n			\n\n			<div class="divider"><span>Or</span></div>\n\n			<div class="login_social">\n\n				<a href="javascript:void(0);" class="google"><i class="fab fa-google"></i> Google</a>\n\n				<a href="javascript:void(0);" class="facebook"><i class="fab fa-facebook-f"></i> Facebook</a>\n\n			</div>\n\n		</form>\n\n	</div>\n\n</div>\n\n</ion-content>\n\n\n\n\n\n<ion-footer>\n\n  <ion-toolbar class="footer">\n\n    <div (click)="navigateTo(\'auth-signup\')">\n\n      <span>Do not have an account? <strong>About Us </strong>.</span>\n\n    </div>\n\n  </ion-toolbar>\n\n</ion-footer>\n\n'/*ion-inline-end:"/Users/jayanta/ionic/Ionic3-firebase3/src/pages/auth/signin/signin.html"*/,
+        selector: 'page-signin',template:/*ion-inline-start:"/Users/jayanta/ionic/Ionic3-firebase3/src/pages/auth/signin/signin.html"*/'\n\n\n\n<ion-content padding>\n\n    <div class="login_sec">\n\n	<div class="login_container">\n\n		<div class="login_logo"><img src="images/logo.png" alt=""></div>\n\n		<h5>Login to your account</h5>\n\n		<form [formGroup]="form" (ngSubmit)="signInWithEmail()">\n\n			<div class="form-group">\n\n				<span class="icon"><ion-img src="images/user-icon.png" alt=""></ion-img></span>\n\n				<ion-item id="email">\n\n        			<ion-input type="email"  class="form-control" placeholder="Email or Mobile" formControlName="email"></ion-input>\n\n      			</ion-item>\n\n\n\n			</div>\n\n			<div class="form-group">\n\n\n\n				<span class="icon"><ion-img src="images/key-icon.png" alt=""></ion-img></span>\n\n      <ion-item id="password">\n\n\n\n        <ion-input type="password"  class="form-control" placeholder="password" formControlName="password"></ion-input>\n\n      </ion-item>\n\n			</div>\n\n			<button  type="submit" class="login_submit">Login</button>\n\n			<p><a (click)="navigateTo(\'auth-signup\')" href="javascript:void(0)">Sign Up</a></p>\n\n			<p style="padding-left: 5px" ion-text color="danger" *ngIf="hasError">{{errorMessage}}</p>\n\n			\n\n			<!--<div class="divider"><span>Or</span></div>-->\n\n			<!--<div class="login_social">-->\n\n				<!--<a href="javascript:void(0);" class="google"><i class="fab fa-google"></i> Google</a>-->\n\n				<!--<a href="javascript:void(0);" class="facebook"><i class="fab fa-facebook-f"></i> Facebook</a>-->\n\n			<!--</div>-->\n\n		</form>\n\n	</div>\n\n</div>\n\n</ion-content>\n\n\n\n\n\n'/*ion-inline-end:"/Users/jayanta/ionic/Ionic3-firebase3/src/pages/auth/signin/signin.html"*/,
     }),
     __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["a" /* App */],
         __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* NavController */],
