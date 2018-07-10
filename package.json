@@ -44,7 +44,8 @@
         "rxjs": "5.4.0",
         "sw-toolbox": "3.6.0",
         "tslint-config-airbnb": "^5.2.1",
-        "zone.js": "0.8.12"
+        "zone.js": "0.8.12",
+        "ionic-native": "^3.5.0"
     },
     "devDependencies": {
         "@ionic/app-scripts": "2.1.3",

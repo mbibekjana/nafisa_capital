@@ -51,6 +51,7 @@ export class AuthProvider {
   sendPasswordResetEmail(email: string): Promise<any> {
     return new Promise((resolve, reject) => {
       firebase.auth().sendPasswordResetEmail(email).then((data) => {
+
         resolve(data);
       }, (error) => {
         reject(error);
