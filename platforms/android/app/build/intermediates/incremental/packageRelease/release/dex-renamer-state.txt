@@ -1,0 +1,4 @@
+#Sun May 20 17:43:00 IST 2018
+base.0=/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/transforms/dex/release/0
+renamed.0=classes.dex
+file.0=/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/transforms/dex/release/0/classes.dex

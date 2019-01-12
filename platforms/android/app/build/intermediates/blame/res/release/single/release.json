@@ -1,0 +1,514 @@
+[
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable_com_facebook_button_send_background.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable/com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/layout_messenger_button_send_white_small.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_com_facebook_button_like_icon_selected.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi-v4_messenger_bubble_small_blue.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xxhdpi-v4/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_messenger_bubble_small_blue.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xhdpi-v4/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_messenger_button_send_round_shadow.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_com_facebook_close.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi_ic_action_remove.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-hdpi/ic_action_remove.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_com_facebook_button_send_icon_blue.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-hdpi-v4/com_facebook_button_send_icon_blue.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_previous_item.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-xhdpi/ic_action_previous_item.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_messenger_bubble_small_blue.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-hdpi-v4/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-land-hdpi_screen.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-land-hdpi/screen.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_icon.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/mipmap-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_icon.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/mipmap-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi_ic_action_previous_item.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-mdpi/ic_action_previous_item.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_messenger_bubble_large_blue.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable_com_facebook_button_icon.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable/com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_com_facebook_button_send_icon_white.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xxhdpi_screen.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/color_com_facebook_send_button_text_color.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_com_facebook_tooltip_black_xout.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_com_facebook_button_like_icon_selected.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_action_previous_item.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-xxhdpi/ic_action_previous_item.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/mipmap-hdpi_icon.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/mipmap-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi_ic_action_next_item.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-hdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-land-ldpi_screen.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-land-ldpi/screen.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi_ic_action_remove.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-mdpi/ic_action_remove.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xhdpi_screen.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_next_item.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-xhdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/xml_config.xml.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/xml/config.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable_messenger_button_white_bg_selector.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable/messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable_messenger_button_blue_bg_round.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable/messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_com_facebook_favicon_white.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-hdpi-v4/com_facebook_favicon_white.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi-v4_messenger_bubble_small_white.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xxhdpi-v4/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable_com_facebook_button_like_background.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable/com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable_com_facebook_send_button_icon.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable/com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_messenger_bubble_large_white.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable_com_facebook_button_background.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable/com_facebook_button_background.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xxhdpi_screen.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_action_remove.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-xxhdpi/ic_action_remove.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi-v4_com_facebook_favicon_white.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xxhdpi-v4/com_facebook_favicon_white.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-port-hdpi_screen.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-port-hdpi/screen.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_messenger_bubble_small_blue.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/color_com_facebook_button_text_color.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/color/com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_com_facebook_button_send_icon_blue.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xhdpi-v4/com_facebook_button_send_icon_blue.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/mipmap-mdpi_icon.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/mipmap-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_com_facebook_profile_picture_blank_portrait.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_portrait.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_com_facebook_favicon_white.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/com_facebook_favicon_white.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_com_facebook_button_send_icon_blue.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/com_facebook_button_send_icon_blue.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable_com_facebook_auth_dialog_cancel_background.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable/com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi-v4_com_facebook_button_icon_white.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xxhdpi-v4/com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_com_facebook_tooltip_black_xout.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_com_facebook_button_send_icon_white.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-hdpi-v4/com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_com_facebook_tooltip_black_xout.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_messenger_bubble_large_blue.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-hdpi-v4/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/layout_messenger_button_send_white_large.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/layout_messenger_button_send_blue_large.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable_messenger_button_white_bg_round.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable/messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable_messenger_button_blue_bg_selector.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable/messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_messenger_button_send_round_shadow.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xhdpi-v4/messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi-v4_messenger_bubble_large_white.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xxhdpi-v4/messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi-v4_messenger_button_send_round_shadow.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xxhdpi-v4/messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable_com_facebook_auth_dialog_header_background.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable/com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi-v4_messenger_bubble_large_blue.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xxhdpi-v4/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/layout_com_facebook_login_fragment.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_messenger_bubble_large_blue.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xhdpi-v4/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_com_facebook_close.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xhdpi-v4/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/layout_com_facebook_device_auth_dialog_fragment.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-land-mdpi_screen.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-land-mdpi/screen.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_messenger_bubble_small_white.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-hdpi-v4/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xxxhdpi_screen.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_messenger_bubble_small_white.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xhdpi-v4/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_com_facebook_button_send_icon_white.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xhdpi-v4/com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi-v4_com_facebook_button_send_icon_white.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xxhdpi-v4/com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_com_facebook_button_icon_blue.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xhdpi-v4/com_facebook_button_icon_blue.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_com_facebook_button_icon_blue.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/com_facebook_button_icon_blue.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_icon.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/mipmap-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_com_facebook_button_icon_white.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-hdpi-v4/com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable_com_facebook_auth_dialog_background.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable/com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_com_facebook_button_icon_blue.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-hdpi-v4/com_facebook_button_icon_blue.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_messenger_bubble_small_white.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi_ic_action_next_item.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-mdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-port-ldpi_screen.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable_com_facebook_button_login_silver_background.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable/com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_com_facebook_button_icon_white.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xhdpi-v4/com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_messenger_button_send_round_shadow.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-hdpi-v4/messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi-v4_com_facebook_button_like_icon_selected.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/layout_messenger_button_send_blue_small.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi-v4_com_facebook_button_icon_blue.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xxhdpi-v4/com_facebook_button_icon_blue.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/layout_com_facebook_activity_layout.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/layout_com_facebook_tooltip_bubble.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_com_facebook_profile_picture_blank_square.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_com_facebook_favicon_white.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xhdpi-v4/com_facebook_favicon_white.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_com_facebook_button_icon_white.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xhdpi_screen.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-land-xhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi_ic_action_previous_item.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-hdpi/ic_action_previous_item.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/mipmap-ldpi_icon.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/mipmap-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-port-mdpi_screen.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-port-mdpi/screen.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_remove.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-xhdpi/ic_action_remove.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_messenger_bubble_large_white.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-xhdpi-v4/messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_action_next_item.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-xxhdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/layout_messenger_button_send_blue_round.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xxxhdpi_screen.png.flat",
+        "source": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/src/main/res/drawable-land-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/layout_messenger_button_send_white_round.xml.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_messenger_bubble_large_white.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-hdpi-v4/messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_com_facebook_close.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-hdpi-v4/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_com_facebook_button_like_icon_selected.png.flat",
+        "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png"
+    }
+]

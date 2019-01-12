@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/jayanta/ionic/Ionic3-firebase3/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml",
+            "map": [
+                {
+                    "source": "/Users/jayanta/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/f4c9b067c803381a71016578469cf3bc/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,227,354,474,586,659,736,798,872,944,1034,1107,1180,1264,1363,1426,1489,1619",
+                        "endColumns": "171,126,119,111,72,76,61,73,71,89,72,72,83,98,62,62,129,59",
+                        "endOffsets": "222,349,469,581,654,731,793,867,939,1029,1102,1175,1259,1358,1421,1484,1614,1674"
+                    }
+                }
+            ]
+        }
+    ]
+}
